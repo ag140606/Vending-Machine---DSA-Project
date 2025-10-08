@@ -85,7 +85,7 @@ private static int murmurHash3(String s) {
         return h1;
     }
 
-    // final avalanche mixing to make has bits uniform
+    // final avalanche mixing to make hash bits uniform
     private static int fmix(int h) {
         h ^= (h >>> 16);
         h *= 0x85ebca6b;
