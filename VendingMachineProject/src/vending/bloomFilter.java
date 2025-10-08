@@ -41,8 +41,8 @@ final class bloomFilter {
         return true;
     }
 
-    // Simple MurmurHash3 flavor (32-bit)
-    private static int murmurHash3(String s) {
+// Simple MurmurHash3 flavor (32-bit)
+private static int murmurHash3(String s) {
         byte[] data = s.getBytes();
         int length = data.length;
         int h1 = 0;
