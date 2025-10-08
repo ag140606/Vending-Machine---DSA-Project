@@ -1,4 +1,4 @@
-# Vending-Machine---DSA-Project
+# Vending-Machine : DSA-Project
 💡 Smart Vending Machine using Bloom Filters and Red-Black Trees
 
 Modern vending machines handle large inventories and need to process product availability queries quickly. To enhance efficiency, a Smart Vending Machine Management System that uses Bloom Filters for fast probabilistic product existence checks and Red-Black Trees (RB Trees) for efficient product storage, retrieval, and management has been designed.
