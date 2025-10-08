@@ -1,16 +1,17 @@
 # Vending-Machine---DSA-Project
 💡 Smart Vending Machine using Bloom Filters and Red-Black Trees
 
-Modern vending machines handle large inventories and need to process product availability queries quickly. To enhance efficiency, design a Smart Vending Machine Management System that uses Bloom Filters for fast probabilistic product existence checks and Red-Black Trees (RB Trees) for efficient product storage, retrieval, and management.
+Modern vending machines handle large inventories and need to process product availability queries quickly. To enhance efficiency, a Smart Vending Machine Management System that uses Bloom Filters for fast probabilistic product existence checks and Red-Black Trees (RB Trees) for efficient product storage, retrieval, and management has been designed.
 
 ⸻
 
 🕹️ System Overview
 
-The vending machine maintains a database of products (e.g., snacks, beverages, etc.), each having:
-	•	Product Name (string)
-	•	Price (int)
-	•	Stock (int)
+The vending machine maintains a database of products (e.g., snacks, beverages, etc.), each having:  
+
+	1. Product Name (string)
+	2. Price (int)
+	3. Stock (int)
 
 ⸻
 
@@ -21,7 +22,8 @@ The vending machine maintains a database of products (e.g., snacks, beverages, e
 
 ⸻
 
-🎯 Functional Requirements
+🎯 Functional Requirements  
+
 	1.	Insert Product
 	2.	Search Product
 	3.	Purchase Product
