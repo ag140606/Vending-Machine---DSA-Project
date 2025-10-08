@@ -27,4 +27,4 @@ The vending machine maintains a database of products (e.g., snacks, beverages, e
 	3.	Purchase Product
 	5.	Display Inventory
 	6.	Check Product Availability
-  7.  Continue according to balance available
+  	7.  Continue according to balance available
