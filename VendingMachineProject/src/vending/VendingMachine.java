@@ -186,7 +186,7 @@ public class VendingMachine extends JFrame {
                                ". Select another product or add more cash.");
         }
     }
-
+    
     private void returnChange() {
         if (currentBalance > 0) {
             JOptionPane.showMessageDialog(this,
